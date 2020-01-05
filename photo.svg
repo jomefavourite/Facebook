@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3300.8 285 259.2 243.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #07b4d8;
+        stroke: #3e3e3e;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #b13d3d;
+        stroke: #454546;
+      }
+
+      .cls-3 {
+        fill: #f2e312;
+        stroke: #444;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(2407 -134)">
+    <path id="Path_6" data-name="Path 6" class="cls-1" d="M44,.5H211A43.5,43.5,0,0,1,254.5,44V195A43.5,43.5,0,0,1,211,238.5H44A43.5,43.5,0,0,1,.5,195V44A43.5,43.5,0,0,1,44,.5Z" transform="translate(896 421)"/>
+    <path id="Intersection_1" data-name="Intersection 1" class="cls-2" d="M-2363,373a44.018,44.018,0,0,1-42.7-33.342V277.5l72.3-43.4,43.668,53.454L-2216.3,213.1l64.3,46V329a44,44,0,0,1-44,44Z" transform="translate(3302 287)"/>
+    <g id="Ellipse_9" data-name="Ellipse 9" class="cls-3" transform="translate(922 446)">
+      <circle class="cls-4" cx="21.5" cy="21.5" r="21.5"/>
+      <circle class="cls-5" cx="21.5" cy="21.5" r="19"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2872 371 316 316">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd70d;
+      }
+
+      .cls-2 {
+        fill: #313131;
+      }
+
+      .cls-3 {
+        fill: #343434;
+      }
+
+      .cls-4 {
+        fill: #f17474;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(2407 -134)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="158" cy="158" r="158" transform="translate(465 505)"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-2" cx="21.5" cy="21.5" r="21.5" transform="translate(542 604)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-2" cx="21.5" cy="21.5" r="21.5" transform="translate(670 604)"/>
+    <path id="Subtraction_7" data-name="Subtraction 7" class="cls-3" d="M-2238.129,404.553a91.022,91.022,0,0,1-90.629-81.054H-2147.5A91.022,91.022,0,0,1-2238.129,404.553Z" transform="translate(2861 375)"/>
+    <path id="Intersection_2" data-name="Intersection 2" class="cls-4" d="M-2373.485,195.027A91.037,91.037,0,0,1-2316.371,175a91.04,91.04,0,0,1,57.115,20.027,91.038,91.038,0,0,1-57.114,20.027A91.037,91.037,0,0,1-2373.485,195.027Z" transform="translate(2939.242 564.5)"/>
+  </g>
+</svg>

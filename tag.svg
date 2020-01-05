@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3117 253 288.6 371.463">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1dbee8;
+        stroke: #464646;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #333;
+      }
+
+      .cls-3 {
+        stroke: #363636;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(2407 -134)">
+    <path id="Path_8" data-name="Path 8" class="cls-1" d="M97.91.5h87.957A98.232,98.232,0,0,1,284.1,98.732v60.008a5.343,5.343,0,0,1-5.343,5.343s-69.687,20.88-139.252,20.88S.5,164.084.5,164.084V97.91A97.41,97.41,0,0,1,97.91.5Z" transform="translate(712 571)"/>
+    <g id="Ellipse_17" data-name="Ellipse 17" class="cls-2" transform="translate(803 506)">
+      <ellipse class="cls-4" cx="51" cy="58.5" rx="51" ry="58.5"/>
+      <ellipse class="cls-5" cx="51" cy="58.5" rx="48.5" ry="56"/>
+    </g>
+    <g id="Ellipse_18" data-name="Ellipse 18" class="cls-3" transform="translate(774 387)">
+      <ellipse class="cls-4" cx="80.5" cy="101" rx="80.5" ry="101"/>
+      <ellipse class="cls-5" cx="80.5" cy="101" rx="78" ry="98.5"/>
+    </g>
+  </g>
+</svg>
